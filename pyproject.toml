@@ -1,0 +1,30 @@
+[project]
+name = "bstats-graph"
+version = "1.0.0"
+description = "Static bStats statistics cards for GitHub READMEs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM", "C4", "RUF", "PL"]
+ignore = [
+    "PLR0913",  # rendering helpers take many layout arguments
+    "PLR0915",
+    "PLR2004",  # layout code is full of pixel constants
+    "RUF001",   # intentional typographic characters in SVG text
+]
+
+[tool.pyright]
+include = ["scripts"]
+pythonVersion = "3.10"
+typeCheckingMode = "strict"
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+files = ["scripts"]

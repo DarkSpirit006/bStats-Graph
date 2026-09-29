@@ -1,0 +1,54 @@
+name: Update graphs
+
+on:
+  push:
+  schedule:
+    # Every 30 minutes, offset from the top of the hour when GitHub is busiest.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-graphs-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  # Paths relative to the repository root. Change them here to move the files.
+  BSTATS_CONFIG: bstats-plugins.txt
+  BSTATS_README: README.md
+  BSTATS_OUTPUT: docs/bstats
+
+jobs:
+  update:
+    # Scheduled runs always use the default branch; pushes only count there too.
+    if: github.event_name != 'push' || github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Generate graphs
+        run: python scripts/generate_bstats_graph.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- "$BSTATS_README" "$BSTATS_OUTPUT"
+          if git diff --cached --quiet; then
+            echo "Graphs are up to date."
+            exit 0
+          fi
+          git commit -m "chore: update bStats graphs"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --strategy-option=theirs origin "$GITHUB_REF_NAME"
+            sleep $((attempt * 5))
+          done
+          exit 1
