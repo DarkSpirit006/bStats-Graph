@@ -9,6 +9,171 @@ to display. Each card comes with a copyable snippet for use in other READMEs.
 ## Example
 
 <!-- BSTATS-GRAPHS:START -->
+
+### PendingWhitelist
+
+**Dark**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/PendingWhitelist/33884"><img src="docs/bstats/33884-dark.svg" alt="PendingWhitelist bStats statistics" width="100%"></a></p>
+
+```markdown
+[![PendingWhitelist bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/33884-dark.svg)](https://bstats.org/plugin/bukkit/PendingWhitelist/33884)
+```
+
+**Light**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/PendingWhitelist/33884"><img src="docs/bstats/33884-light.svg" alt="PendingWhitelist bStats statistics" width="100%"></a></p>
+
+```markdown
+[![PendingWhitelist bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/33884-light.svg)](https://bstats.org/plugin/bukkit/PendingWhitelist/33884)
+```
+
+<details>
+<summary><b>Automatic theme</b></summary>
+
+Follows the viewer's light or dark setting:
+
+```markdown
+[![PendingWhitelist bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/33884.svg)](https://bstats.org/plugin/bukkit/PendingWhitelist/33884)
+```
+
+Switches with the GitHub theme:
+
+```html
+<a href="https://bstats.org/plugin/bukkit/PendingWhitelist/33884">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/33884-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/33884-light.svg">
+    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/33884.svg" alt="PendingWhitelist bStats statistics" width="100%">
+  </picture>
+</a>
+```
+
+</details>
+
+### TimezoneManager
+
+**Dark**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335"><img src="docs/bstats/34335-dark.svg" alt="TimezoneManager bStats statistics" width="100%"></a></p>
+
+```markdown
+[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-dark.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
+```
+
+**Light**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335"><img src="docs/bstats/34335-light.svg" alt="TimezoneManager bStats statistics" width="100%"></a></p>
+
+```markdown
+[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-light.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
+```
+
+<details>
+<summary><b>Automatic theme</b></summary>
+
+Follows the viewer's light or dark setting:
+
+```markdown
+[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
+```
+
+Switches with the GitHub theme:
+
+```html
+<a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-light.svg">
+    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335.svg" alt="TimezoneManager bStats statistics" width="100%">
+  </picture>
+</a>
+```
+
+</details>
+
+### TPAUI
+
+**Dark**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/TPAUI/34518"><img src="docs/bstats/34518-dark.svg" alt="TPAUI bStats statistics" width="100%"></a></p>
+
+```markdown
+[![TPAUI bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34518-dark.svg)](https://bstats.org/plugin/bukkit/TPAUI/34518)
+```
+
+**Light**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/TPAUI/34518"><img src="docs/bstats/34518-light.svg" alt="TPAUI bStats statistics" width="100%"></a></p>
+
+```markdown
+[![TPAUI bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34518-light.svg)](https://bstats.org/plugin/bukkit/TPAUI/34518)
+```
+
+<details>
+<summary><b>Automatic theme</b></summary>
+
+Follows the viewer's light or dark setting:
+
+```markdown
+[![TPAUI bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34518.svg)](https://bstats.org/plugin/bukkit/TPAUI/34518)
+```
+
+Switches with the GitHub theme:
+
+```html
+<a href="https://bstats.org/plugin/bukkit/TPAUI/34518">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34518-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34518-light.svg">
+    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34518.svg" alt="TPAUI bStats statistics" width="100%">
+  </picture>
+</a>
+```
+
+</details>
+
+### AuthMeReloaded-bedrockbypass
+
+**Dark**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517"><img src="docs/bstats/34517-dark.svg" alt="AuthMeReloaded-bedrockbypass bStats statistics" width="100%"></a></p>
+
+```markdown
+[![AuthMeReloaded-bedrockbypass bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-dark.svg)](https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517)
+```
+
+**Light**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517"><img src="docs/bstats/34517-light.svg" alt="AuthMeReloaded-bedrockbypass bStats statistics" width="100%"></a></p>
+
+```markdown
+[![AuthMeReloaded-bedrockbypass bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-light.svg)](https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517)
+```
+
+<details>
+<summary><b>Automatic theme</b></summary>
+
+Follows the viewer's light or dark setting:
+
+```markdown
+[![AuthMeReloaded-bedrockbypass bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517.svg)](https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517)
+```
+
+Switches with the GitHub theme:
+
+```html
+<a href="https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-light.svg">
+    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517.svg" alt="AuthMeReloaded-bedrockbypass bStats statistics" width="100%">
+  </picture>
+</a>
+```
+
+</details>
+
 <!-- BSTATS-GRAPHS:END -->
 
 ## Features
