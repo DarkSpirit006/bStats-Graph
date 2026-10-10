@@ -1,0 +1,2 @@
+* text=auto eol=lf
+docs/bstats/*.svg linguist-generated=true -diff

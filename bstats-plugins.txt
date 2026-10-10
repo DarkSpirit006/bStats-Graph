@@ -1,0 +1,9 @@
+# bStats pages to render, one URL per line; optional time range follows the URL.
+# Plugin pages: .../plugin/<platform>/<name>/<id>
+# Global pages: .../global/<platform>
+# Range: any positive number + h/d/w/m/y (e.g. 3h, 12d, 4w, 6m, 1y).
+# Blank range means all available history. m = 30 days; y = 365 days.
+https://bstats.org/plugin/bukkit/PendingWhitelist/33884 1w
+https://bstats.org/plugin/bukkit/TimezoneManager/34335 1w
+https://bstats.org/plugin/bukkit/TPAUI/34518 1w
+https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517 1w
