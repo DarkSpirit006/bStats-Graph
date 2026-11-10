@@ -51,47 +51,6 @@ Switches with the GitHub theme:
 
 </details>
 
-### TimezoneManager
-
-**Dark**
-
-<p align="center"><a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335"><img src="docs/bstats/34335-dark.svg" alt="TimezoneManager bStats statistics" width="100%"></a></p>
-
-```markdown
-[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-dark.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
-```
-
-**Light**
-
-<p align="center"><a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335"><img src="docs/bstats/34335-light.svg" alt="TimezoneManager bStats statistics" width="100%"></a></p>
-
-```markdown
-[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-light.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
-```
-
-<details>
-<summary><b>Automatic theme</b></summary>
-
-Follows the viewer's light or dark setting:
-
-```markdown
-[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
-```
-
-Switches with the GitHub theme:
-
-```html
-<a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-light.svg">
-    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335.svg" alt="TimezoneManager bStats statistics" width="100%">
-  </picture>
-</a>
-```
-
-</details>
-
 ### TPAUI
 
 **Dark**
@@ -133,22 +92,22 @@ Switches with the GitHub theme:
 
 </details>
 
-### AuthMeReloaded-bedrockbypass
+### TimezoneManager
 
 **Dark**
 
-<p align="center"><a href="https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517"><img src="docs/bstats/34517-dark.svg" alt="AuthMeReloaded-bedrockbypass bStats statistics" width="100%"></a></p>
+<p align="center"><a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335"><img src="docs/bstats/34335-dark.svg" alt="TimezoneManager bStats statistics" width="100%"></a></p>
 
 ```markdown
-[![AuthMeReloaded-bedrockbypass bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-dark.svg)](https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517)
+[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-dark.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
 ```
 
 **Light**
 
-<p align="center"><a href="https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517"><img src="docs/bstats/34517-light.svg" alt="AuthMeReloaded-bedrockbypass bStats statistics" width="100%"></a></p>
+<p align="center"><a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335"><img src="docs/bstats/34335-light.svg" alt="TimezoneManager bStats statistics" width="100%"></a></p>
 
 ```markdown
-[![AuthMeReloaded-bedrockbypass bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-light.svg)](https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517)
+[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-light.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
 ```
 
 <details>
@@ -157,17 +116,58 @@ Switches with the GitHub theme:
 Follows the viewer's light or dark setting:
 
 ```markdown
-[![AuthMeReloaded-bedrockbypass bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517.svg)](https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517)
+[![TimezoneManager bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335.svg)](https://bstats.org/plugin/bukkit/TimezoneManager/34335)
 ```
 
 Switches with the GitHub theme:
 
 ```html
-<a href="https://bstats.org/plugin/bukkit/AuthMeReloaded-bedrockbypass/34517">
+<a href="https://bstats.org/plugin/bukkit/TimezoneManager/34335">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517-light.svg">
-    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34517.svg" alt="AuthMeReloaded-bedrockbypass bStats statistics" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335-light.svg">
+    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34335.svg" alt="TimezoneManager bStats statistics" width="100%">
+  </picture>
+</a>
+```
+
+</details>
+
+### JadeBridge
+
+**Dark**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/JadeBridge/34905"><img src="docs/bstats/34905-dark.svg" alt="JadeBridge bStats statistics" width="100%"></a></p>
+
+```markdown
+[![JadeBridge bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34905-dark.svg)](https://bstats.org/plugin/bukkit/JadeBridge/34905)
+```
+
+**Light**
+
+<p align="center"><a href="https://bstats.org/plugin/bukkit/JadeBridge/34905"><img src="docs/bstats/34905-light.svg" alt="JadeBridge bStats statistics" width="100%"></a></p>
+
+```markdown
+[![JadeBridge bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34905-light.svg)](https://bstats.org/plugin/bukkit/JadeBridge/34905)
+```
+
+<details>
+<summary><b>Automatic theme</b></summary>
+
+Follows the viewer's light or dark setting:
+
+```markdown
+[![JadeBridge bStats statistics](https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34905.svg)](https://bstats.org/plugin/bukkit/JadeBridge/34905)
+```
+
+Switches with the GitHub theme:
+
+```html
+<a href="https://bstats.org/plugin/bukkit/JadeBridge/34905">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34905-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34905-light.svg">
+    <img src="https://raw.githubusercontent.com/DarkSpirit006/bStats-Graph/main/docs/bstats/34905.svg" alt="JadeBridge bStats statistics" width="100%">
   </picture>
 </a>
 ```
